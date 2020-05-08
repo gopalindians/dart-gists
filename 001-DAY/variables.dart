@@ -7,24 +7,24 @@
 ///variables are declared with var keyword
 
 //string
-var name='Ram Sharma';
+var name = 'Ram Sharma';
 
 //int
-var age=29;
+var age = 29;
 
 //float
-var height=164.54;
+var height = 164.54;
 
 //array
-var hobbies =[ 'Yoga','Travelling','Hiking' ];
+var hobbies = ['Yoga', 'Travelling', 'Hiking'];
 
 //object
-var meta={
-  'race':['asian','south asian','indian'],
-  'skin_tone':'pale'
+var meta = {
+  'race': ['asian', 'south asian', 'indian'],
+  'skin_tone': 'pale'
 };
 
-void main(){
+void main() {
   print(name);
   print(age);
   print(height);

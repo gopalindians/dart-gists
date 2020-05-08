@@ -4,11 +4,9 @@
  *001-DAY
  */
 
-
-void main(){
+void main() {
   print('HELLO WORLD');
 }
-
 
 //Code is Dart starts with main() method, similar to c based languages
 //To display text on the console use the print() function

@@ -11,7 +11,7 @@ void main() {
 
 //simple function to check if a number is even or not
 
-// funciton in dart have return type
+// function in dart have return type
 bool isEven(int num) {
   return num % 2 == 0;
 }

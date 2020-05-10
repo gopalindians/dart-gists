@@ -26,3 +26,11 @@ Dart-gists
 [__004-DAY__](004-DAY)
 
 - [imports.dart](004-DAY/imports.dart)
+
+[__005-DAY__](005-DAY)
+
+- [classes.dart](005-DAY/classes.dart)
+
+- [inheritance.dart](005-DAY/inheritance.dart)
+
+- [mixins.dart](005-DAY/mixins.dart)

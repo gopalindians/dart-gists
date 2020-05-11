@@ -1,5 +1,5 @@
 name: dart_gists
-version: 0.0.5+pubspec.addition
+version: 0.0.6+async
 description: >-
   Dart gists is a collections of code chunks with annotations from
   the dart.dev site
@@ -7,6 +7,6 @@ author: Gopal Sharma <gopalindians@gmail.com>
 issue_tracker: https://github.com/gopalindians/dart-gists/issues
 repository: https://github.com/gopalindians/dart-gists
 environment:
-  sdk: ">=2.0.0 <3.0.0"
+  sdk: ">=2.2.0 <3.0.0"
 dev_dependencies:
   test: ">=1.10.0 <1.14.3"

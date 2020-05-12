@@ -41,9 +41,6 @@ void main() {
     }
   }
 
-
-var objects ={
-  'ABC','DEF'
-};
+  var objects = {'ABC', 'DEF'};
   createDescriptions(objects);
 }

@@ -41,3 +41,10 @@ Dart-gists
 - [async.dart](006-DAY/async.dart)
 
 - [interfaces_and_abstract_classes.dart](006-DAY/interfaces_and_abstract_classes.dart)
+
+
+[__007-DAY__](007-DAY)
+
+- [exceptions.dart](007-DAY/exceptions.dart)
+
+- [try_catch.dart](007-DAY/try_catch.dart)
